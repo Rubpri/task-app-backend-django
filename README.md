@@ -15,10 +15,3 @@ Añade, modifica o borra tareas almacenadas en una base de datos. (Máximo 20 ta
 - Live Backend (API): [https://task-app-rubpri.koyeb.app/tasks/api/v1/tasks/](https://task-app-rubpri.koyeb.app/tasks/api/v1/tasks/)
 - Repositorio Frontend: [https://github.com/Rubpri/task-app](https://github.com/Rubpri/task-app)
 
-## Capturas 
-
-![Captura1](task1.png)
-
-![Captura2](task2.png)
-
-![Captura3](task3.png)
